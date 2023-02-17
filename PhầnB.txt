@@ -1,0 +1,20 @@
+Câu 1: min=(a<b)? a:b 
+          -> if (a<b) min = a;
+ 	else min = b;
+Câu 2:C
+Câu 3:C
+Câu 4:A
+Câu 5:B
+Câu 6:B
+Câu 7:C
+Câu 8: D
+Câu 9:D
+Câu 10 B
+Câu 11: C
+Câu 12 C
+Câu 13 B
+Câu 14 B
+Câu 15 B
+Câu 16 B
+Câu 19: B
+Câu 20:B
